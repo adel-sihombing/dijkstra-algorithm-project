@@ -1,4 +1,4 @@
-# Dijkstra - Data Structure and Algorithm - Project
+# Dijkstra Algorithm - Data Structure and Algorithm - Project
 Shortest route finder using Dijkstra Algorithm with Python Tkinter GUI
 
 This project aims to implement Dijkstra’s algorithm using Python with a Tkinter-based graphical user interface to determine the shortest path between multiple location nodes. The system is designed to represent the shortest path problem using a weighted graph structure, where nodes represent locations and edges represent the distance between them as weights.
